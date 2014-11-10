@@ -1,8 +1,6 @@
 # tshow
 
-**Specify times for page elements to be revealed**
-
-<!--**Reveal parts of a page at specific times**-->
+**A script that lets you markup elements to be revealed at specific times**
 
 ## Background
 
