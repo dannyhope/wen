@@ -14,9 +14,17 @@ tShow lets you quickly add attributes to specify when elements should be visible
 
 ## Example
 
-    <p tshow"2014-11-10T1100Z--2015, 2016--2017" tscroll="2014-11-10">
+Here’s a paragraph which I want to control…
 
-This paragraph will be visible between 11:00 (UTC) on November the 10th, 2014 and the 1st of January 2015, and then for all of 2016 and then never be shown again.
+    <p>Hello world!</p>
+
+…I add the magic stuff…
+
+    <p tshow"2014-11-10T1100Z--2015, 2016--2017" tscroll="2014-11-10">Hello world!</p>
+
+…and now it behaves thusly…
+
+The paragraph will be visible between 11:00 (UTC) on November the 10th, 2014 and the 1st of January 2015, and then for all of 2016 and then never be shown again.
 
 The paragraph would smoothly scroll into view, provided the following conditions are met:
 
