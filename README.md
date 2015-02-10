@@ -1,4 +1,4 @@
-# tshow
+# WEN – Which Elements Now
 
 **A script that lets you markup elements to be revealed at specific times**
 
